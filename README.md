@@ -1,4 +1,4 @@
-# Steam-Games-Reviews-Analysis-Sentiment-Analysis-
+# Steam-Games-Reviews-Analysis-Sentiment-Analysis
 
 ### foldery:
 - data = tam gdzie bedzie nasz dataset przed i po czyszczeniu
