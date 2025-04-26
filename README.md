@@ -12,3 +12,27 @@ DATA: https://zenodo.org/records/1000885
 - instrukcja użycia repo w readme
 
 
+## Plan:
+
+### Wprowadzenie:
+Cel projektu/hipoteza badawcza lub pytanie.
+
+### Eksploracja i preprocessing danych:
+Opis i charakterystyka danych. - dodać !! podpisać czym są konkretne cechy w naszym datasetcie\
+Odpowiedni preprocessing danych.✔️\
+Wizualizacja danych.✔️
+
+### Zastosowanie wybranego algorytmu do redukcji wymiarowości:
+Wizualizacja danych w przestrzeni 2D/3D + interpretacja.
+
+### Dobór odpowiedniej metody płytkiego uczenia:
+Wybór metody w zależności od problemu/charakteru danych + krótkie uzasadnienie.\
+Porównanie działania > 1 metody.\
+Krótkie omówienie procesu trenowania/doboru parametrów.
+
+### Ewaluacja modelu:
+Obliczenie i interpretacja odpowiednich metryk oceny modelu.
+
+### Podsumowanie:
+Podsumowanie wyników, ocena skuteczności, wnioski.
+
