@@ -1,0 +1,6 @@
+gensim
+imbalanced-learn
+pandas
+numpy
+scikit-learn
+seaborn
